@@ -1,0 +1,23 @@
+{
+  "name": "metrics-agent-nodejs",
+  "version": "1.0.0",
+  "description": "Metrics Agent for NodeJS proyects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fravega/metrics-agent-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fravega/metrics-agent-nodejs/issues"
+  },
+  "homepage": "https://github.com/fravega/metrics-agent-nodejs#readme",
+  "dependencies": {
+    "appmetrics": "^4.0.0",
+    "prom-client": "^11.1.3"
+  }
+}
