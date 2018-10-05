@@ -1,6 +1,6 @@
 {
   "name": "metrics-agent-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Metrics Agent for NodeJS proyects",
   "main": "index.js",
   "scripts": {
